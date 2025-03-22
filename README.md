@@ -3,4 +3,5 @@
 
 
 - Tengo 19 años y vivo en Campana.
-- Me gusta mucho aprender cosas nuevas, relacionadas con la informática y en otros ámbitos. 
+- Me gusta mucho aprender cosas nuevas, tanto relacionadas con la informática como en otros ámbitos.
+- En mi tiempo libre me gusta hacer de todo, escuchar música, ver series, cocinar postres, entre otras cosas.
